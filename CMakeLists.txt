@@ -5,4 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(falloutefrei main.c
         character.c
-        character.h)
+        character.h
+        team.c
+        team.h)
